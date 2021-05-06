@@ -1,4 +1,6 @@
 # Urban Grassland Allergens datasets
+[![DOI](https://zenodo.org/badge/364942517.svg)](https://zenodo.org/badge/latestdoi/364942517)
+
 Datasets for peer-review of the manucscript entitled **Grassland allergenicity increases with urbanisation and plant invasions**, by Maud Bernard-Verdier, Birgit Seitz, Sascha Buchholz, Ingo Kowarik & Jonathan M. Jeschke. 
 
 These datasets inlcude four data tables (.csv files), providing the clean and collated raw data supporting the results of the study. Associated metadata files are also provided as .csv files for each data table.
